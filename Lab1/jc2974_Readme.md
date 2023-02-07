@@ -60,10 +60,10 @@ https://youtu.be/_i11T16hWGo
 
 ## Reflection
 
-\*\***Are there things that seemed better on paper than acted out?**\*\*
+**Are there things that seemed better on paper than acted out?**
 
 No, surprisingly, everything seemed to work out well.
 
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+**Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
 In the firefighter robot, we could add a sound module into our robot to communicate with the people in need.
