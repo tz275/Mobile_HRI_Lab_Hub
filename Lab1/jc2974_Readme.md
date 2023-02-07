@@ -1,5 +1,6 @@
 # Interaction First
-\*\***List the names and NetID for your partners here.**\*\*
+
+## Names
 
 Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
 
@@ -56,6 +57,8 @@ https://youtu.be/-BYsNBfd6x4
 Advertisement robot:
 https://youtu.be/_i11T16hWGo
 
+
+## Reflection
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
