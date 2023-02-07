@@ -19,7 +19,8 @@ For this week's lab (and also the following week), you will work in groups of 3.
 ### Update your personal lab repo
 1.  Log in to your github, go to `YourGithubUsername/Mobile_HRI_Lab_Hub/`. 
 2.  Click "Sync fork" -> "Update branch"
-<img src="https://user-images.githubusercontent.com/20778137/216361417-48d0e8b6-2d21-46e0-869c-b8aa801dfed4.png" width="600">
+<img src="https://user-images.githubusercontent.com/20778137/216387426-475bd046-a583-4ff8-980b-cbae843b0dc5.png" width="600">
+
 3. Now your Lab Hub should be updated with the latest lab.
 
 
@@ -53,7 +54,7 @@ Follow the instructions [here](https://cornell.box.com/s/i0ykqbfz3y1fj195jax0s28
 The instructions are arranged in stages. At the beginning of each stage, each group must select one (and only one) representitive to pick up parts from us. 
 
 After you finish your robot, plug in power from the USB battery pack. Follow the instructions below to connect to your robot.
-1. Connect to WiFi "MobileHRI-x", where x is the number assigned to the ESP-32. (ESP-32 should flash once.)
+1. Connect to WiFi "MobileHRI-x", where x is the number assigned to the ESP-32. (ESP-32 should flash once.) The password is "12345678"
 2. Open a brower, in the address line, type in 192.168.4.1
 3. You should be see a control interface. Try out different buttons and see what they do.
 
