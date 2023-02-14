@@ -1,107 +1,89 @@
 # Then Prototype the Robot
-**List the names and NetID for your partners here.**
 
-This week's lab is a continuation of the previous week. We explore the role of both *siting*--the location and activity--in interaction, as well as the *form and appearance* of the robot in the interaction.
-
-
-## Prep
-
-### For this lab, you will need:
-1. Paper
-2. Markers/ Pens
-3. Scissors/Utility Knifes
-4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. **Found objects and materials** -- You will have to costume your CloneBot so that it fits in the intended setting. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative! We have fabric, just ask!
-   
-
-
-
-
-### Deliverables for this lab are: 
-
-0. Fill in the questions along the way! 
-1. 1 photo of costumed device
-2. Reflections on the process
-3. Video sketch of 1 prototyped interactions with costumed device
-4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
-
-### The Report 
-This README.md page in your own repository should be edited to include the work you have done (the deliverables mentioned above). Following the format below, you can delete everything but the headers and the sections between the **stars**. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in your README.md for the lab.
-
-## Lab Overview
-For this assignment, you are going to:
-
-A) [Provide feedback to your peers](#part-a-provide-feedback)
-
-B) [Site the interaction](#part-b-site-the-interaction)
-
-C) [Costume the robot](#part-c-costume-the-robot)
-
-D) [Wizard the robot](#part-d-wizard-the-robot) 
-
-E) [Video record the interaction](#part-e-record)
-
-Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
+Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
 
 ## Part A. Provide Feedback
-You and your teammates will be assigned lab 1 submissions from one other group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear.
 
-**Summarize feedback your feedback here.**
+### Feedback on [Sylvie's team](https://github.com/sylvie7788/Mobile_HRI_Lab_Hub/blob/main/Lab1/Readme.md)
+
+We think the idea of the pet-accompanying robot is really great! It will definitely become common use case in the future. And the storyboard as well as the video that you made is really informative and fun. We can see in the video that little Rosie was heart-broken alone at home, but got better because of the robot.
+
+### Feedback on [Jonathan's team](https://github.com/JMortonTan/Mobile_HRI_Lab_Hub/blob/main/Lab1/jmt362_Readme.md)
+
+We think the ideas of the robot are really interesting. We can see that the robot can be used to help people to do some daily tasks, like watering plants and charging phones, which are really helpful. The storyboards are really informative and the videos are fun to watch.
 
 ## Part B. Site the interaction
 
-Think about where the interaction you are prototyping is going to occur-- on a desk? on a floor? indoors? outdoors?
+### Firefighter robot
+- Where the interaction you are prototyping is going to occur: Office buildings
+![img](images/settings/IMG_8151.jpg)
+- What other people and objects are in that space: firefighter, sufferer, fire extinguisher, fire, smoke
+- What activities are going on in that space: Running into different rooms to find sufferers, rescuing the sufferers
+- What activity is the robot going to be involved in: people waiting for rescue in a fire.
+- What issues or opportunities arise from the site and activities: 
+One issue that needs to be addressed is the safety of the robot in high-temperature environments, which must be ensured before it can be put into operation. However, the use of the robot presents opportunities to improve search efficiency and increase the safety of firefighters.
 
-What other people and objects are in that space?
+### Advertisement robot
+- Where the interaction you are prototyping is going to occur: Office buildings
+![img](images/settings/IMG_8153.jpg)
+- What other people and objects are in that space: anyone and everything (employees, desks, monitors, etc.)
+- What activities are going on in that space: running into different rooms to display the designated advertisements
+- What activity is the robot going to be involved in: promoting products or services, providing customer service
+- What issues or opportunities arise from the site and activities:
+One issue that could arise from technical limitations is the need for the robot to have a lot of perception hardware to navigate around the building and operate the elevator independently, which may cause low battery life. On the other hand, an opportunity that could arise from using a robot is the potential to increase brand visibility and enhance a company's technological capabilities.
 
-What activities are going on in that space? What activity is the robot going to be involved in?
-
-\*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
-
-\*\***Document the activities being considered.**\*\*
-
-\*\***What issues or opportunties arise from the site and activities?**\*\*
+### Metronome robot
+- Where the interaction you are prototyping is going to occur: personal space
+![img](images/settings/IMG_8156.jpg)
+- What other people and objects are in that space: laptops, speakers, any instruments (piano, saxophone, guitar, etc.)
+- What activities are going on in that space: dance in an assigned BPM
+- What activity is the robot going to be involved in: dance
+- What issues or opportunities arise from the site and activities: 
+One potential issue with the robot is its limited adaptability to changes in tempo or music style, which may restrict its usefulness in certain contexts. On the other hand, the robot's entertainment value could help alleviate the monotony of music creation for composers and increase their creative output.
 
 ## Part C. Costume the robot
 
-Only now should you start worrying about what the device should look like. Develop one costume so that CloneBot can fit into it's setting.
+### Sketches
 
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? 
+#### Firefighter robot
+![img](images/sketches/IMG_0064.jpg)
 
-Pick one of the custumes and make it with paper or cardboard or any other material!
+#### Advertisement robot
+![img](images/sketches/IMG_0065.jpg)
 
-\*\***Include sketches of what your robot might look like here.**\*\*
+#### Metronome robot
+![img](images/sketches/IMG_0066.jpg)
 
-\*\***Include photos of your custumed robot here.**\*\*
+### Photos
 
-\*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
+#### Metronome robot
 
+![img](images/photos/IMG_8146.jpg)
+
+![img](images/photos/IMG_8147.jpg)
+
+![img](images/photos/IMG_8148.jpg)
+
+![img](images/photos/IMG_8149.jpg)
+
+![img](images/photos/IMG_8150.jpg)
+
+### Reflection
+
+We want this robot to look somewhat artistic in order to fit its use case (used by songwriters when creating music). So we used a variety of bright colors to make it look beautiful. And we made sure that the costume was tightly glued to the robot's body, so that it will not fall off when dancing around.
 
 ## Part D. Wizard the Robot
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the robot while someone interacts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
-\*\***Include your first attempts at recording the set-up video here.**\*\*
+### Metronome Robot first attempt and follow-up work
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
-
-\*\***Show the follow-up work here.**\*\*
+https://youtu.be/DqLu32dOoks
 
 ## Part E. Record
 
-\*\***Take videos of your prototyped interaction.**\*\*
+### Storyboard
 
-\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+![img](images/storyboards/2.pic.jpg)
 
+### Video
 
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
-
-Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
-
-### Again, deliverables for this lab are: 
-
-0. Fill in the questions along the way! 
-1. photos of costumed robots
-2. Reflections on the process
-3. Video sketch of 1 prototyped interactions with the costumed device
-4. Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
+https://youtu.be/3zqq2Ws-zl0
