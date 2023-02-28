@@ -2,7 +2,6 @@
 **List the names and NetID for your partners here.**
 
 Build off of Lab 3 from last week. This week's material can be done rather quickly.
-Build off of Lab 3 from last week. This week's material can be done rather quickly.
 
 Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
 
@@ -10,7 +9,6 @@ Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
 
 ### For this lab, you will need:
 1. Your laptop
-2. Pi Camera
 2. Pi Camera
 
 ### Before you come to the lab on Thursday, please do the following:
@@ -31,7 +29,6 @@ This README.md page in your own repository should be edited to include the work 
 ## Lab Overview
 For this assignment, you are going to:
 
-A) [Connect your camera](#-a-connect-your-camera)
 A) [Connect your camera](#-a-connect-your-camera)
 
 B) [Connect to your Pi (VNC Viewer)](#part-b-connect-to-your-pi-through-vnc-viewer)
@@ -72,7 +69,6 @@ curl -LJO https://raw.githubusercontent.com/FAR-Lab/Mobile_HRI_Lab_Hub/main/Lab4
 python3 test_camera.py
 ```
 **Please include a screenshot of the working VNC viewer with a working image view.**
-**Please include a screenshot of the working VNC viewer with a working image view.**
 
 This exercise is based on this [The Data Frog Tutorial](https://thedatafrog.com/en/articles/human-detection-video/#:~:text=People%20detection,work%20well%20in%20other%20cases.) online. Your CPU will get toasty, so put on a **heat sink**. 
 
@@ -108,10 +104,6 @@ The view captured by the camera would depend on its placement and orientation. T
 Labs are due on Tuesdays before class. Make sure this page is linked to on your main class hub page.
 
 ### Again, deliverables for this lab are: 
-
-0. A screenshot of the working VNC viewer with a working image view.
-
-1. Answers to the reflection questions in part D. 
 
 0. A screenshot of the working VNC viewer with a working image view.
 
