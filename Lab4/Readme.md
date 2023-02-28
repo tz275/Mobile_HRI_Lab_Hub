@@ -91,15 +91,6 @@ Reflect on the following questions:
 1. For your favorite prototyped interaction that you have thought of so far, reflect upon how a camera connected to your Pi could be useful.
 
 Our favorite prototype interaction is "social anxiety robot". The camera could be used to detect the user's facial expressions and gestures, which could help the robot better understand the user's emotional state and respond appropriately.
-## Part D. Reflection
-
-Reflect on the following questions:
-
-1. For your favorite prototyped interaction that you have thought of so far, reflect upon how a camera connected to your Pi could be useful.
-2. What issues do you foresee with this setup? 
-3. How is the temperature? How is the speed? How is the connection?
-4. How is the view? Would it capture what you might need to see for your prototyped interaction (in question 1)?
-
 
 2. What issues do you foresee with this setup?
 
