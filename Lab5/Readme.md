@@ -1,6 +1,8 @@
 # Give the robot moves
 **List the names and NetID for your partners here.**
 
+Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
+
 Now, let's control our robots to make them move intuitively. 
 
 As you have seen, it's pretty easy to control the wheels with Python! However, it's not easy for us as humans to move the robot in ways that feel right while thinking in terms of individual wheel velocity. If you are a gamer, you might be pretty familiar with controlling avatars with joystick controllers or keyboard keys (WASD). In today's lab, let's map joystick controller commands to wheel velocities in Python.
@@ -328,3 +330,17 @@ Include pictures/videos of your moving robot chassis.
 1. Videos of you controlling the wheels with your joystick controller properly.
 2. Three ideas on how to use controllers' rumble feature for Wizard of Oz.
 3. (optional) Documentation of the robot proto-chassis
+
+## Deliverables
+
+1. Videos of you controlling the wheels with your joystick controller properly.
+
+[Video](https://youtube.com/shorts/PYSDqIt-BH4)
+
+2. Three ideas on how to use controllers' rumble feature for Wizard of Oz control.
+
+    1. Feedback: The vibration feature can provide feedback on the robot's status or motion, such as collision detection or motion control.
+
+    2. Distance: The strength of the vibration can vary depending on the distance between the robot and the remote control, providing the user with information about the robot's proximity.
+
+    3. Alert: The vibration feature can alert the user of low battery levels or other important notifications.
