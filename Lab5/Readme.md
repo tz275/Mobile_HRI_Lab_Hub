@@ -335,7 +335,7 @@ Include pictures/videos of your moving robot chassis.
 
 1. Videos of you controlling the wheels with your joystick controller properly.
 
-[Video](https://youtube.com/shorts/PYSDqIt-BH4)
+    [Video](https://youtube.com/shorts/PYSDqIt-BH4)
 
 2. Three ideas on how to use controllers' rumble feature for Wizard of Oz control.
 
