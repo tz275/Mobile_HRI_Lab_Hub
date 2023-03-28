@@ -107,14 +107,35 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 ## Deliverables
 
 0. Photos of your robot prototype
-    [Front side](https://drive.google.com/file/d/1VkesMxyO7Z1RiHMWY6ALWCOseT6hezc1/view?usp=sharing)
-    [Back side](https://drive.google.com/file/d/1if_7-2htfUN7T-2U6KTGvuIf_W8f2ucd/view?usp=sharing)
+    
+    [Front side photo](https://drive.google.com/file/d/1VkesMxyO7Z1RiHMWY6ALWCOseT6hezc1/view?usp=sharing)
+    [Back side photo](https://drive.google.com/file/d/1if_7-2htfUN7T-2U6KTGvuIf_W8f2ucd/view?usp=sharing)
 
 1. A video of your robot moving around
-    [video](https://drive.google.com/file/d/1makx8e2Jteu94M9LYDhXuEwZEfG5Gi2q/view?usp=sharing)
+
+    We haven't got swivel wheels for our robot, so it cannot maintain balance by itself right now. We will fix this as soon as we meet Frank to ask for the wheels in the next lab session.
+    
+    [Video](https://drive.google.com/file/d/1makx8e2Jteu94M9LYDhXuEwZEfG5Gi2q/view?usp=sharing)
 
 2. A sketch of a series movements based on your final project
-
+    
+    Our final project idea is a (hopefully voice-controled) moving furniture. So there are no special moves accociated with our special project, only the basics:
+    
+    a. Move forward and backward
+    
+    [Move forward and backward sketch](https://drive.google.com/file/d/1crexxD9H-y0uTZJQfejxDFTJwZZhRvHN/view?usp=sharing)
+    
+    b. Change direction
+    
+    [Change direction sketch](https://drive.google.com/file/d/1SMy33jgRTWeTbizC7Jrk2-3zFU1TGOtb/view?usp=sharing)
+    
+    
 3. A video showing your robot perform the movements in 2.
-4. Reflect upon your design, what would you do differently?
+    
+    As we stated earlier, there are no special moves accociated with our special project, only the basics. So the video here is the same as the video in 2.
+    
+    [Video](https://drive.google.com/file/d/1makx8e2Jteu94M9LYDhXuEwZEfG5Gi2q/view?usp=sharing)
+    
+5. Reflect upon your design, what would you do differently?
 
+    I would add one or two additional swivel wheels to help our robot maintain its balance.
