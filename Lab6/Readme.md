@@ -104,3 +104,19 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 3. A video showing your robot perform the movements in 2.
 4. Reflect upon your design, what would you do differently?
 
+## Deliverables
+
+0. Photos of your robot prototype
+
+![front side](https://share.cleanshot.com/VdNZLVtn)
+
+![back side](https://share.cleanshot.com/4MYCpzpS)
+
+2. A video of your robot moving around
+
+![video](https://drive.google.com/file/d/1makx8e2Jteu94M9LYDhXuEwZEfG5Gi2q/view?usp=sharing)
+
+4. A sketch of a series movements based on your final project
+5. A video showing your robot perform the movements in 2.
+6. Reflect upon your design, what would you do differently?
+
