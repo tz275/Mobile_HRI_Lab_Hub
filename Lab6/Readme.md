@@ -109,6 +109,7 @@ To visualize your LiDAR reading, open foxglove studio in vnc viewer. Then, click
 0. Photos of your robot prototype
     
     [Front side photo](https://drive.google.com/file/d/1VkesMxyO7Z1RiHMWY6ALWCOseT6hezc1/view?usp=sharing)
+    
     [Back side photo](https://drive.google.com/file/d/1if_7-2htfUN7T-2U6KTGvuIf_W8f2ucd/view?usp=sharing)
 
 1. A video of your robot moving around
