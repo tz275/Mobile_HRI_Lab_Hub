@@ -3,6 +3,8 @@
 
 **List the names and NetID for your partners here.**
 
+Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
+
 
 In this lab, let's try out some moves with our robots and make them talk!
 
