@@ -1,6 +1,8 @@
 # Choreographing Movement
 **List the names and NetID for your partners here.**
 
+Jamie Cao (jc2974), Chenran Ning (cn257), Tingkang Zhao (tz275)
+
 It is about time to have a functioning mobile robot! Starting from this lab, you should prioritize either robot building and/or study design. 
 
 ## Prep
