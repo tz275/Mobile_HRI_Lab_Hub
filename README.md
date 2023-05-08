@@ -1,6 +1,6 @@
 # Mobile-HRI-Lab-Hub
 
-## Final Project Documentation: https://docs.google.com/document/d/1HNyteDtuoqFPTXmIcCV_hU0w9sPXhqpYfn4wRfsVmo0/edit?usp=sharing
+## Final Project Documentation: [link](https://docs.google.com/document/d/1HNyteDtuoqFPTXmIcCV_hU0w9sPXhqpYfn4wRfsVmo0/edit?usp=sharing)
 
 for [Mobile_HRI_Design](https://github.com/FAR-Lab/Mobile_HRI_Design)
 
