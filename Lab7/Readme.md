@@ -123,18 +123,18 @@ Based on your final project proposal, sketch out a simple interaction scenario w
         4) when people remain stationary for a minut or longer  
 
 
-4. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion
-        1) Shout loudly in a high-volume noise when people try to destory the robot.
-        2) Move forward and backward as a way to express gratitude and signify that the service has ended after providing assistance once.
+4. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion  
+        1) Shout loudly in a high-volume noise when people try to destory the robot.  
+        2) Move forward and backward as a way to express gratitude and signify that the service has ended after providing assistance once.  
 
-5. Try unscripted interaction with at least 5 people. (Again, remember to take a video; this means you have to get their permission to record them, but not tell them what to do. Please don't shoot creeper videos.) That is, don't tell the people involved in the interaction what to do. Use WoZ to enable the people to see how the interaction would unfold if the robot were autonomous. 
-        1) The first person appeared confused, unsure of what the robot's purpose was or what it was meant to do.
-        2) The second person displayed a keen interest in engaging with the robot, showing enthusiasm and curiosity.
-        3) The third person expressed their belief that the robot could benefit from additional functionalities, suggesting that it could be enhanced in some way.
-        4) The fourth person engaged with the robot in a typical manner, without any notable surprises or reactions.
-        5) The fifth person experienced a slight sense of fear when the robot approached closer to them, feeling a bit unsettled by its proximity.
+5. Try unscripted interaction with at least 5 people. (Again, remember to take a video; this means you have to get their permission to record them, but not tell them what to do. Please don't shoot creeper videos.) That is, don't tell the people involved in the interaction what to do. Use WoZ to enable the people to see how the interaction would unfold if the robot were autonomous.   
+        1) The first person appeared confused, unsure of what the robot's purpose was or what it was meant to do.  
+        2) The second person displayed a keen interest in engaging with the robot, showing enthusiasm and curiosity.  
+        3) The third person expressed their belief that the robot could benefit from additional functionalities, suggesting that it could be enhanced in some way.  
+        4) The fourth person engaged with the robot in a typical manner, without any notable surprises or reactions.  
+        5) The fifth person experienced a slight sense of fear when the robot approached closer to them, feeling a bit unsettled by its proximity.  
 
-6. Reflection on what you learned about the interaction; revise the interaction sketch with your new insights.
+6. Reflection on what you learned about the interaction; revise the interaction sketch with your new insights.  
 ![IMG_0884](https://github.com/tz275/Mobile_HRI_Lab_Hub/assets/111816192/2d73d79d-a4a2-41c6-a26d-9daebd5e43bd)
 
 Be mindful of the others around you. Be safe.
