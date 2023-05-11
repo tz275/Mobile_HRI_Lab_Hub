@@ -113,7 +113,7 @@ Based on your final project proposal, sketch out a simple interaction scenario w
         3) The space may be large and easy to get disoriented in.  
 
 
-2. Stage the interaction you expect with your robot to go. (Remember to take a video.)
+2. Stage the interaction you expect with your robot to go.
 ![IMG_0883](https://github.com/tz275/Mobile_HRI_Lab_Hub/assets/111816192/56e506e7-dc59-43e9-a931-649ae03ba6c6)
 
 3. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.  
