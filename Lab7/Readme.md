@@ -107,20 +107,20 @@ if wiggle_button_pressed:
 ## Part C. Test out some interaction!
 
 Based on your final project proposal, sketch out a simple interaction scenario where your robot is interacting (verbally and/or physically) with at least one person. The robot must interact with at least one person. 
-1. Scout out the location for the interaction. What are the features and existing activities in the space?
-        1) The interaction will take place indoors, within a building.
-        2) The area is level and obstacle-free, with no bumps or locked doors.
-        3) The space may be large and easy to get disoriented in.
+1. Scout out the location for the interaction. What are the features and existing activities in the space?  
+        1) The interaction will take place indoors, within a building.  
+        2) The area is level and obstacle-free, with no bumps or locked doors.  
+        3) The space may be large and easy to get disoriented in.  
 
 
 2. Stage the interaction you expect with your robot to go. (Remember to take a video.)
 ![IMG_0883](https://github.com/tz275/Mobile_HRI_Lab_Hub/assets/111816192/56e506e7-dc59-43e9-a931-649ae03ba6c6)
 
-3. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.
-        1) when people look at the robot
-        2) when people talk to the robot
-        3) when individuals appear to be in need of assistance
-        4) when people remain stationary for a minut or longer
+3. Figure out 2-3 interaction triggers that the Wizard will respond to for the interaction. Are there things that need to be done to make it eaiser to spot these triggers? For example, one trigger might be if a person is looking at the robot. Another is if someone is gesturing at the robot.  
+        1) when people look at the robot  
+        2) when people talk to the robot  
+        3) when individuals appear to be in need of assistance  
+        4) when people remain stationary for a minut or longer  
 
 
 4. Figure out 2-3 interaction routines that the robot should use for the interaction. For example, maybe the robot  backs up slightly before going forward to signal that its going to go, makes angry noises when it is blocked, or wiggles side to side to indicate confusion
